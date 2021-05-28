@@ -1,0 +1,163 @@
+{
+  "type": "FeatureCollection",
+  "query": ["chengannur"],
+  "features": [
+    {
+      "id": "poi.85899354709",
+      "type": "Feature",
+      "place_type": ["poi"],
+      "relevance": 1,
+      "properties": {
+        "wikidata": "Q888384",
+        "landmark": true,
+        "address": "Chengannur",
+        "foursquare": "4e704678483b9778fd3151f3",
+        "category": "tour, travel agent",
+        "maki": "attraction"
+      },
+      "text": "Chengannur",
+      "place_name": "Chengannur, Chengannur, Chengannur, Kerala, India",
+      "center": [76.6144355, 9.3175825],
+      "geometry": { "coordinates": [76.6144355, 9.3175825], "type": "Point" },
+      "context": [
+        {
+          "id": "place.15008099997562330",
+          "wikidata": "Q888384",
+          "text": "Chengannur"
+        },
+        {
+          "id": "district.14753499997096120",
+          "wikidata": "Q928959",
+          "text": "Alappuzha"
+        },
+        {
+          "id": "region.9962073091978210",
+          "wikidata": "Q1186",
+          "short_code": "IN-KL",
+          "text": "Kerala"
+        },
+        {
+          "id": "country.2782945337",
+          "wikidata": "Q668",
+          "short_code": "in",
+          "text": "India"
+        }
+      ]
+    },
+    {
+      "id": "poi.1168231146463",
+      "type": "Feature",
+      "place_type": ["poi"],
+      "relevance": 1,
+      "properties": {
+        "foursquare": "4cede36c5de16ea8950db996",
+        "landmark": true,
+        "wikidata": "Q15209398",
+        "category": "rail station, train station",
+        "maki": "rail"
+      },
+      "text": "Chengannur Railway Station",
+      "place_name": "Chengannur Railway Station, Chengannur, Kerala, India",
+      "center": [76.60834249999999, 9.3193025],
+      "geometry": {
+        "coordinates": [76.60834249999999, 9.3193025],
+        "type": "Point"
+      },
+      "context": [
+        {
+          "id": "place.15008099997562330",
+          "wikidata": "Q888384",
+          "text": "Chengannur"
+        },
+        {
+          "id": "district.14753499997096120",
+          "wikidata": "Q928959",
+          "text": "Alappuzha"
+        },
+        {
+          "id": "region.9962073091978210",
+          "wikidata": "Q1186",
+          "short_code": "IN-KL",
+          "text": "Kerala"
+        },
+        {
+          "id": "country.2782945337",
+          "wikidata": "Q668",
+          "short_code": "in",
+          "text": "India"
+        }
+      ]
+    },
+    {
+      "id": "place.15008099997562330",
+      "type": "Feature",
+      "place_type": ["place"],
+      "relevance": 1,
+      "properties": { "wikidata": "Q888384" },
+      "text": "Chengannur",
+      "place_name": "Chengannur, Kerala, India",
+      "bbox": [76.478598, 9.23589299999999, 76.71481, 9.36013399999999],
+      "center": [76.61402, 9.31848],
+      "geometry": { "type": "Point", "coordinates": [76.61402, 9.31848] },
+      "context": [
+        {
+          "id": "district.14753499997096120",
+          "wikidata": "Q928959",
+          "text": "Alappuzha"
+        },
+        {
+          "id": "region.9962073091978210",
+          "wikidata": "Q1186",
+          "short_code": "IN-KL",
+          "text": "Kerala"
+        },
+        {
+          "id": "country.2782945337",
+          "wikidata": "Q668",
+          "short_code": "in",
+          "text": "India"
+        }
+      ]
+    },
+    {
+      "id": "poi.386547126019",
+      "type": "Feature",
+      "place_type": ["poi"],
+      "relevance": 1,
+      "properties": {
+        "foursquare": "4ec4bdac8b812a2064ba78fa",
+        "landmark": true,
+        "category": "event space, events venue"
+      },
+      "text": "Chengannur Muncipal Stadium",
+      "place_name": "Chengannur Muncipal Stadium, Chengannur, Kerala, India",
+      "center": [76.613525, 9.324556],
+      "geometry": { "coordinates": [76.613525, 9.324556], "type": "Point" },
+      "context": [
+        {
+          "id": "place.15008099997562330",
+          "wikidata": "Q888384",
+          "text": "Chengannur"
+        },
+        {
+          "id": "district.14753499997096120",
+          "wikidata": "Q928959",
+          "text": "Alappuzha"
+        },
+        {
+          "id": "region.9962073091978210",
+          "wikidata": "Q1186",
+          "short_code": "IN-KL",
+          "text": "Kerala"
+        },
+        {
+          "id": "country.2782945337",
+          "wikidata": "Q668",
+          "short_code": "in",
+          "text": "India"
+        }
+      ]
+    }
+  ],
+  "attribution": "NOTICE: © 2021 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+}

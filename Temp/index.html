@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v1.0.0/mapbox-gl-directions.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v1.0.0/mapbox-gl-directions.css' rel='stylesheet' />
+    <title>Mapbox</title>
+    <style>
+        body{
+            margin: 0;
+            padding: 0;
+        }
+        #map{
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+        #form{
+            position: absolute;
+            top: 20px;
+            left: 10px;
+        }
+    </style>
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div id="map">
+    </div>
+    <div id="form">
+        <form>
+            <input type="text" id="start" placeholder="enter your starting point">
+            <input type="text" id="end" placeholder="enter your destination point">
+        </form>
+    </div>
+</body>
+</html>
+
